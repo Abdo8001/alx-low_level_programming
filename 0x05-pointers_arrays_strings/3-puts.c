@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _puts - a function that prints a string
@@ -14,4 +14,4 @@ void _puts(char *str)
 		_putchar(str[i]);
 	}
 	_putchar('\n');
-}
+
